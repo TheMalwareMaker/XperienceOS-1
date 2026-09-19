@@ -32,7 +32,7 @@ git branch -M main
 
 :: 5. Collega la tua cartella locale al sito di GitHub 
 :: (Sostituisci il link qui sotto con quello che hai copiato al punto 1!)
-git remote add origin https://github.com
+git remote add origin https://github.com/TheMalwareMaker/XperienceOS-1
 
 :: 6. Spingi il codice online
 git push -u origin main
