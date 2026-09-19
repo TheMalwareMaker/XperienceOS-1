@@ -1,6 +1,6 @@
 # XperienceOS-1
 
-Un sistema operativo basico a 32-bit scritto in **Assembly NASM** e **C**, progettato per funzionare in modalità testo VGA (`0xB8000`) sia su emulatori (QEMU) sia su hardware reale come l'**Asus Eee PC**.
+Un sistema operativo leggero basico a 32-bit scritto in **Assembly NASM** e **C**, progettato per funzionare in modalità testo VGA (`0xB8000`) sia su emulatori (QEMU) sia su hardware reale come l'**Asus Eee PC**.
 
 ## Requisiti di compilazione (su Windows)
 * NASM
